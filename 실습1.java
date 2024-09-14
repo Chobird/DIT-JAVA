@@ -11,5 +11,7 @@ public class 실습1 {
         int won = ekffj * 1200;
 
         System.out.println("$" +ekffj +"는 " + won +"원 입니다");
+
+        scanner.close();
     }
 }
